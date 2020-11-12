@@ -1,0 +1,1 @@
+console.log("Encourageing a new student at Codeaisseur")
